@@ -13,7 +13,6 @@ This repository contains my C++ programs and lab work completed using Ubuntu and
 
 - Ubuntu 26.04.1 LTS
 - Visual Studio Code
-- G++
 - Git
 - GitHub
 
